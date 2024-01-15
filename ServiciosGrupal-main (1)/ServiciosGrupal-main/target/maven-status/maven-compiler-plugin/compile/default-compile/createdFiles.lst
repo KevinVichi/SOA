@@ -1,0 +1,11 @@
+com\example\demo\DemoApplication.class
+com\example\demo\repository\EstudianteRepository.class
+com\example\demo\Controllers\ApiUser.class
+com\example\demo\model\Estudiante.class
+com\example\demo\securityconfig\SecurityConfig$1.class
+com\example\demo\model\User.class
+com\example\demo\Controllers\ApiEstudiante.class
+com\example\demo\Controllers\AppController.class
+com\example\demo\repository\UserRepository.class
+com\example\demo\securityconfig\SecurityConfig.class
+com\example\demo\ServletInitializer.class
